@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "News React description",
+    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+  },
+  "extensionName": {
+    "description": "News with react",
+    "message": "Chrome extension boilerplate"
+  }
+}
